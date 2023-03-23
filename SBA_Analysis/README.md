@@ -84,3 +84,23 @@ Bank of America, National Association	|147547|	8934348167
 Harvest Small Business Finance, LLC	|402965	|6936199668.88214
 Prestamos CDFI, LLC	|443858	|6823303287.2998
 Cross River Bank	|285821|	6512122597
+
+
+## 4. Top 5 industries that received the PPP loans in 2020
+
+| Sector| Number_of_Approved | Approved_Amount  |
+| ------------- |:-------------:| -----:|
+Manufacturing	|426209|	100430811635.86
+Health Care and Social Assistance|	527355|	68116729764.8
+Professional, Scientific and Technical Services|	672853|	66892059973.21
+Construction	|490959	|65320075354.57
+Retail Trade	|620958|	49033242254.54
+
+## 5. How much of the PPP loans of 2021 have been fully forgiven
+
+|Number_of_Approved | Current_Approved_Amount| Average_Approved_Amount| Amount_Forgiven | percent_forgiven|
+| - |:-------------:| -----| - | -|
+6332097	|270825829658.71|	42770.3223211385|	253807006356.996|	93.7159526758713|
+
+## And that's a wrap for the Project Preview.
+## Thanks for reading this!
