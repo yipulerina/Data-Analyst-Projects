@@ -32,7 +32,7 @@ I used SQL Server Integration Services(SSIS) for creating an ETL package that he
 <h1>Analysis
 </h1>
 
-<p align="left"> 1. What is the summary of all PPP approved loans?
+##  1. What is the summary of all PPP approved loans?
 <br>
 
 | Date_Approved | Number_of_Approved  | Approved_Amount  |
