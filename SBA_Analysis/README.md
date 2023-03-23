@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="Readme/sba_tableau.png" height="175px"/></a>
+<a href="#"><img width="800" height="auto" src="Readme/sba_tableau.png" height="150px"/></a>
 
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> SBA Loan Analysis</h1>
 <h3 align="center">This is a project on the Paycheck Protection Programme (PPP): <br> Provided small businesses with approximately $800 billion in low-interest uncollateralized loans from April 3, 2020, through May 31, 2021 as part of the covid relief fund</h3>
