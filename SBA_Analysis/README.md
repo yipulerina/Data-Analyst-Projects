@@ -21,10 +21,10 @@ I used SQL Server Integration Services(SSIS) for creating an ETL package that he
 <p> 
 <img width="450" height="325" src="Readme/ETL_Package.png">
 
-</p> I used SQL for data cleaning. Here's a glimpse
+</p> I used SQL for data cleaning. Here's a glimpse of it:
 </p>
 
 <p>
-<img width="500" height="325" src="Readme/image.jpg">
+<img width="900" height="350" src="Readme/image.jpg">
 </p>
 
