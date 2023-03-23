@@ -1,5 +1,4 @@
 <p>
-    <img src="Readme/ETL_Package.png" width="220" height="240" />
+    <img src="Readme/ETL_Package.png" width="1000" height="500" />
 </p>
 
-![ETL_package](Readme/ETL_Package.png)
