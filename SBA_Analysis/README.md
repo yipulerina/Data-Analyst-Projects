@@ -14,12 +14,12 @@ I took up this project as a challenge from my friend. We both are aspiring data 
  <br>Link to tableau dashboard: https://public.tableau.com/app/profile/yipu.lerina/viz/PPPDashboard_16769832978370/Dashboard1?publish=yes</i>
 
 
- # DATA PREPARATION
+ ### DATA PREPARATION
 
-I used SQL Server Integration Services(SSIS) for creating an ETL package that helped merge 10+csv files (which was over 4+ gb in size) and import it directly to MSSQL SERVER .
+I used SQL Server Integration Services(SSIS) for creating an ETL package that helped merge 10+csv files (which was over 4+ gb in size) and import it directly to MSSQL SERVER .Here's a glimpse of how I created the ETL package:
 
-<p> Here's a glimpse of how I created the ETL package:
-<img width="500" height="350" src="Readme/ETL_Package.png">
+<p> 
+<img width="450" height="325" src="Readme/ETL_Package.png">
 </p>
 
 
