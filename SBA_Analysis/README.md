@@ -1,4 +1,4 @@
 <p>
-    <img src="Readme/ETL_Package.png" width="1000" height="500" />
+    <img src="Readme/ETL_Package.png" width="800" height="350" />
 </p>
 
