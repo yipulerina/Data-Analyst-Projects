@@ -25,6 +25,6 @@ I used SQL Server Integration Services(SSIS) for creating an ETL package that he
 </p>
 
 <p>
-<img width="900" height="350" src="Readme/image.jpg">
+<img width="900" height="450" src="Readme/image.jpg">
 </p>
 
