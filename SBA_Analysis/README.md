@@ -40,28 +40,7 @@ I used SQL Server Integration Services(SSIS) for creating an ETL package that he
 | 2020      | 5136320 | 	525769754660.653|
 | 2021     | 6332097      |   271048233468.138 |
 
-</p>
 
-
-| OriginatingLender	| Number_of_Approved |
-
-| JPMorgan Chase Bank, National Association	| 280145
-Bank of America, National Association	| 343488
-Truist Bank	| 80445
-PNC Bank, National Association	| 73911
-Wells Fargo Bank, National Association	| 193018
-Manufacturers and Traders Trust Company	| 53321
-TD Bank, National Association	| 85711
-The Huntington National Bank	| 54456
-KeyBank National Association	| 43124
-U.S. Bank, National Association	| 108030
-Zions Bank, A Division of	| 47748
-Cross River Bank	| 193045
-Fifth Third Bank	| 39918
-Citizens Bank, National Association	| 52999
-BMO Harris Bank National Association	| 21980
-
-</p>
 <br>
 
 ## 2. Top 5 Originating lenders  in 2020
