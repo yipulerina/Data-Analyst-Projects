@@ -14,9 +14,10 @@
 </h1>
 
 #### <i>Link to the dataset :https://www.kaggle.com/datasets/shivamb/netflix-shows?datasetId=434238&sortBy=voteCount
- <br>
+
+ #### Link to tableau dashboard: https://public.tableau.com/app/profile/yipu.lerina/viz/Netflix_Dashboard_16796506435840/Dashboard2?publish=yes
  
- #### Link to tableau dashboard: https://public.tableau.com/app/profile/yipu.lerina/viz/Netflix_Dashboard_16796506435840/Dashboard2?publish=yes</i>
+ </i>
 
 <br>
 <br>
@@ -26,4 +27,7 @@
 
   ### Finally I created a dashboard using Tableau for presenting my work.
 
+
+
+### Here's the Link to my analysis using python: <i>https://github.com/yipulerina/PortfolioProjects-DataAnalyst/blob/main/Netflix_EDA/netflix_eda.ipynb</i>
 
