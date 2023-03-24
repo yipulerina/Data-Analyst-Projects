@@ -36,27 +36,27 @@ Link to the dataset : https://codebasics.io/resources/end-to-end-data-analyst-pr
 
 ### Data cleaning: Here's a glimpse of how I used PowerQuery for cleaning the data.
 <p>
-<img width="1000" height="350" src="Readme/data_cleaning.png">
+<img width="700" height="350" src="Readme/data_cleaning.png">
 </p>
 <br>
 
 ### Data modelling:
 <p>
-<img width="1000" height="350" src="Readme/data_modelling.png">
+<img width="700" height="350" src="Readme/Data_modelling.png">
 </p> 
 
 
 ### Customized tooltips for better time intelligence analysis
 
 <p>
-<img width="1000" height="350" src="Readme/Tooltip.png">
+<img width="700" height="350" src="Readme/Tooltip.png">
 </p> 
 
 
 ### Key metrices in one table to assist domain experts /stakeholders 
 
 <p>
-<img width="1000" height="350" src="Readme/key metrices.png">
+<img width="800" height="350" src="Readme/key metrices.png">
 </p> 
 
 <h1>Conclusion
